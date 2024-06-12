@@ -1,4 +1,5 @@
 # flutter_recipe_finder
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+ 
+>>>>>>> 4d3fc5ddef01297ff45c2509670c0065d32e7e81
